@@ -1,0 +1,10 @@
+Nmap scan report for 192.168.1.63
+Host is up (0.10s latency).
+Not shown: 994 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+563/tcp  closed snews
+1080/tcp closed socks
+1236/tcp closed bvcontrol
+3017/tcp closed event_listener
+4001/tcp closed newoak
+6003/tcp closed X11:3
