@@ -1,0 +1,21 @@
+DNS protocols 
+
+16	0.559719494	10.0.2.3	10.0.2.15	DNS	155	Standard query response 0x6aed A i.clarity.ms CNAME vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com A 4.153.72.49
+15	0.556361936	10.0.2.15	10.0.2.3	DNS	72	Standard query 0x6aed A i.clarity.ms
+11	0.365461715	10.0.2.3	10.0.2.15	DNS	209	Standard query response 0x461b AAAA i.clarity.ms CNAME vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com SOA ns1-06.azure-dns.com
+
+TCP protocols 
+11	0.365461715	10.0.2.3	10.0.2.15	DNS	209	Standard query response 0x461b AAAA i.clarity.ms CNAME vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com SOA ns1-06.azure-dns.com
+2	0.000031261	10.0.2.15	52.95.126.160	TCP	54	36992 → 443 [ACK] Seq=1 Ack=1 Win=63996 Len=0
+7	0.294668827	10.0.2.15	4.153.72.49	TCP	74	42520 → 443 [SYN] Seq=0 Win=64240 Len=0 MSS=1460 SACK_PERM TSval=2987642059 TSecr=0 WS=128
+
+UDP protocols 
+9	0.304476330	10.0.2.15	10.0.2.3	DNS	72	Standard query 0x461b AAAA i.clarity.ms
+16	0.559719494	10.0.2.3	10.0.2.15	DNS	155	Standard query response 0x6aed A i.clarity.ms CNAME vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com A 4.153.72.49
+10	0.356470808	10.0.2.3	10.0.2.15	DNS	155	Standard query response 0xec16 A i.clarity.ms CNAME vmss-clarity-ingest-eus2-c.eastus2.cloudapp.azure.com A 4.153.72.49
+
+1. Protocols observed:  DNS, TCP,UDP
+2. Total packets captured: 396
+3. DNS packets show domain name resolutions like google.com
+4. TCP packets show handshake and data transmission
+5. UDP refers to a protocol used for cmmunication through internet 
