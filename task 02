@@ -1,0 +1,41 @@
+1. Phishing Email Analysis Report
+-------------------------------
+Sender Address: suspicious@paypall.com
+Spoofing Detected: Yes
+Header Issues: Return-Path mismatch
+Suspicious Link: http://fake-paypal.com/login
+Urgent Message: "Your account will be closed in 24 hours!"
+Spelling Errors: “Accounnt” instead of “Account”
+Summary: This email contains multiple phishing indicators and should be reported.
+
+2. Phishing Email Analysis Report
+-------------------------------
+Sender Address: suspicious@msofficee.com
+Spoofing Detected: Yes
+Header Issues: Return-Path mismatch
+Suspicious Link: http://fake-officee.com/login
+Urgent Message: "Your account password is changed click here to verify its you !"
+Spelling Errors: “Accounnt” instead of “Account”
+Summary: This email contains multiple phishing indicators and should be reported.
+
+3. Phishing Email Analysis Report
+-------------------------------
+Sender Address: suspicious@wellsfargo.com
+Spoofing Detected: Yes
+Header Issues: Return-Path mismatch
+Suspicious Link: http://fake-wallsfargo.com/login
+Urgent Message: "Secure your wall fargo nline key hurry!"
+Spelling Errors: “wall fargo” instead of “wallfargo”
+Summary: This email contains multiple phishing indicators and should be reported.
+
+4. Phishing Email Analysis Report
+-------------------------------
+Sender Address: Windows User Alert
+Spoofing Detected: Yes
+Header Issues: Path mismatch
+Suspicious Link: Refernce no :AZ -1190 
+Urgent Message: "Unsual sign-in activity !"
+Spelling Errors: “mailicius” instead of “mailicious ”
+Summary: This email contains multiple phishing indicators and should be reported.
+
+
