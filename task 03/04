@@ -1,0 +1,12 @@
+Commands that are used in this task are -
+
+sudo ufw enable
+sudo ufw status numbered
+sudo ufw deny 23
+telnet localhost 23
+sudo ufw allow 22
+sudo ufw delete v6
+
+The Final Summary Of How Firewalls Filters Treaffic 
+
+The firewall uses rules to filter incoming and outgoing traffic based on IP address, port, or protocol. Rules can allow or deny traffic. UFW simplifies this by using readable commands to manage iptables.
